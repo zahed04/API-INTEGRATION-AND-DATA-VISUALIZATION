@@ -135,3 +135,4 @@ Create insightful visuals for presentations or reports
 
 OUTPUT:
 
+<img width="473" height="389" alt="Image" src="https://github.com/user-attachments/assets/2a8b248e-83f9-4fc8-ad50-2b1c4b989075" />
